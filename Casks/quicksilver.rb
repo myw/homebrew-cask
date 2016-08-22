@@ -6,7 +6,7 @@ cask 'quicksilver' do
     version '1.2.0-16399'
     sha256 '08c5aeaa7fe89427bcec30a9700eb0b7484bd68b647776b2c82c95355d1679d4'
   else
-    version '1.4.1-16409'
+    version '1.4.2-16410'
     sha256 'eaa49618720db8889e041bc9559448ed438a9ab6926596f5061bc6215d5ff94f'
   end
 
